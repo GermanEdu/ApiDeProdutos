@@ -119,6 +119,11 @@ Rotas protegidas com [Authorize]
 
 🧪 Comandos úteis
 bash
+# Pacotes principais do projeto ***  tambem verifique as versões dos pacotes que esta utilizando (exemplo: dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 8.0.5)
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
 Copiar
 Editar
 dotnet ef migrations add NomeDaMigration
