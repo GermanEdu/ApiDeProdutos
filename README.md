@@ -130,6 +130,6 @@ dotnet ef migrations add NomeDaMigration
 dotnet ef database update
 dotnet run
 👨‍💻 Desenvolvedor
-Nome: Seu Nome Aqui
+Nome: Edu
 
 GitHub: https://github.com/GermanEdu
